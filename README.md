@@ -22,9 +22,6 @@ With [Google](www.google.com), [Coding everybody](https://github.com/codingevery
 
 #### Customizing Examples in Black Desert Online(BDO)
   
-  
-<iframe width="1223" height="896" src="https://www.youtube.com/embed/l_hiI-gyurE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 
 ![image](https://image.fmkorea.com/files/attach/new/20190609/4180795/1086450894/1886317307/99b983892094b5c6d2fc3736e15da7d1.jpeg)
 
