@@ -41,7 +41,7 @@ With [Google](www.google.com), [Coding everybody](https://github.com/codingevery
 
 |          |                         Plans to do                          | Check |
 | :------: | :----------------------------------------------------------: | :---: |
-| 1th day  | [Prepare base knowledge of Neural Network](./History/1st_day) |       |
+| 1th day  | [Practice Face landmarks with OpenCV](./History/1st_day/Yahac-1.ipynb) |   O   |
 | 2nd day  | [Practice practical coding with open source library (open-cv, PIL, ...)](./History/2nd_day) |       |
 | 3rd day  | [Practice practical coding with open source library (open-cv, PIL, ...)](./History/3rd_day) |       |
 | 4th day  | [Practice Neural Network (Tensorflow, Keras)](./History/4th_day) |       |
