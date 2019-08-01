@@ -51,17 +51,6 @@ With [Google](www.google.com), [Coding everybody](https://github.com/codingevery
 | 8th day  | [Set a strategy to apply Face Reconstruction on Customization](./History/8th_day) |       |
 | 9th day  | [Train dataset and convert reconstructed output face to Customizing files](./History/9th_day) |       |
 | Last day |  [Debug and adjust the model properly](./History/Last_day)   |       |
-| 1th day  | [Prepare base knowledge of Neural Network](./History/1st_day/days.md) |       |
-| 2nd day  | [Practice practical coding with open source library (open-cv, PIL, ...)](./History/2nd_day/days.md) |       |
-| 3rd day  | [Practice practical coding with open source library (open-cv, PIL, ...)](./History/3rd_day/days.md) |       |
-| 4th day  | [Practice Neural Network (Tensorflow, Keras)](./History/4th_day/days.md) |       |
-| 5th day  | [Practice Neural Network (Tensorflow, Keras)](./History/5th_day/days.md) |       |
-| 6th day  | [Study Face Reconstruction (Paper and source code)](./History/6th_day/days.md) |       |
-| 7th day  | [Study Face Reconstruction (Paper and source code)](./History/7th_day/days.md) |       |
-| 8th day  | [Set a strategy to apply Face Reconstruction on Customization](./History/8th_day/days.md) |       |
-| 9th day  | [Train dataset and convert reconstructed output face to Customizing files](./History/9th_day/days.md) |       
-| Last day |  [Debug and adjust the model properly](./History/Last_day/days.md)   |       |
-
 
 
 
