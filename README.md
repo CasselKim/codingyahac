@@ -41,8 +41,7 @@ With [Google](www.google.com), [Coding everybody](https://github.com/codingevery
 
 |          |                         Plans to do                          | Check |
 | :------: | :----------------------------------------------------------: | :---: |
-<<<<<<< HEAD
-| 1th day  | [Practice Face landmarks with OpenCV](./History/1st_day/Yahac-1.ipynb) |   O   |
+| 1th day  | [Practice Face landmarks with OpenCV](https://nbviewer.jupyter.org/github/CasselKim/codingyahac/blob/master/History/1st_day/Yahac-1.ipynb) |   O   |
 | 2nd day  | [Practice practical coding with open source library (open-cv, PIL, ...)](./History/2nd_day) |       |
 | 3rd day  | [Practice practical coding with open source library (open-cv, PIL, ...)](./History/3rd_day) |       |
 | 4th day  | [Practice Neural Network (Tensorflow, Keras)](./History/4th_day) |       |
@@ -52,7 +51,6 @@ With [Google](www.google.com), [Coding everybody](https://github.com/codingevery
 | 8th day  | [Set a strategy to apply Face Reconstruction on Customization](./History/8th_day) |       |
 | 9th day  | [Train dataset and convert reconstructed output face to Customizing files](./History/9th_day) |       |
 | Last day |  [Debug and adjust the model properly](./History/Last_day)   |       |
-=======
 | 1th day  | [Prepare base knowledge of Neural Network](./History/1st_day/days.md) |       |
 | 2nd day  | [Practice practical coding with open source library (open-cv, PIL, ...)](./History/2nd_day/days.md) |       |
 | 3rd day  | [Practice practical coding with open source library (open-cv, PIL, ...)](./History/3rd_day/days.md) |       |
@@ -61,9 +59,8 @@ With [Google](www.google.com), [Coding everybody](https://github.com/codingevery
 | 6th day  | [Study Face Reconstruction (Paper and source code)](./History/6th_day/days.md) |       |
 | 7th day  | [Study Face Reconstruction (Paper and source code)](./History/7th_day/days.md) |       |
 | 8th day  | [Set a strategy to apply Face Reconstruction on Customization](./History/8th_day/days.md) |       |
-| 9th day  | [Train dataset and convert reconstructed output face to Customizing files](./History/9th_day/days.md) |       |
+| 9th day  | [Train dataset and convert reconstructed output face to Customizing files](./History/9th_day/days.md) |       
 | Last day |  [Debug and adjust the model properly](./History/Last_day/days.md)   |       |
->>>>>>> 98efab29a6a09de780acd81aa34c974008d1a8d8
 
 
 
