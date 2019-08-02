@@ -21,7 +21,7 @@ With [Google](www.google.com), [Coding everybody](https://github.com/codingevery
 
 
 #### Customizing Examples in Black Desert Online(BDO)
-  
+
 
 ![image](https://image.fmkorea.com/files/attach/new/20190609/4180795/1086450894/1886317307/99b983892094b5c6d2fc3736e15da7d1.jpeg)
 
@@ -42,7 +42,7 @@ With [Google](www.google.com), [Coding everybody](https://github.com/codingevery
 |          |                         Plans to do                          | Check |
 | :------: | :----------------------------------------------------------: | :---: |
 | 1th day  | [Practice Face landmarks with OpenCV](https://nbviewer.jupyter.org/github/CasselKim/codingyahac/blob/master/History/1st_day/Yahac-1.ipynb) |   O   |
-| 2nd day  | [Practice practical coding with open source library (open-cv, PIL, ...)](./History/2nd_day) |       |
+| 2nd day  | [Searching information of Face Reconstruction](https://www.notion.so/casselkim/References-010d6f86b1104b85baea45136c802cca) |   O   |
 | 3rd day  | [Practice practical coding with open source library (open-cv, PIL, ...)](./History/3rd_day) |       |
 | 4th day  | [Practice Neural Network (Tensorflow, Keras)](./History/4th_day) |       |
 | 5th day  | [Practice Neural Network (Tensorflow, Keras)](./History/5th_day) |       |
