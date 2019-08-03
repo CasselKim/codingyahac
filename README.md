@@ -43,7 +43,7 @@ With [Google](www.google.com), [Coding everybody](https://github.com/codingevery
 | :------: | :----------------------------------------------------------: | :---: |
 | 1th day  | [Practice Face landmarks with OpenCV](https://nbviewer.jupyter.org/github/CasselKim/codingyahac/blob/master/History/1st_day/Yahac-1.ipynb) |   O   |
 | 2nd day  | [Searching information of Face Reconstruction](https://www.notion.so/casselkim/References-010d6f86b1104b85baea45136c802cca) |   O   |
-| 3rd day  | [Practice practical coding with open source library (open-cv, PIL, ...)](./History/3rd_day) |       |
+| 3rd day  | [Following Face3d repository](https://www.notion.so/casselkim/Face3D-YadiraF-398b0c6c6b554e6498feff3950c6cab4) |   O   |
 | 4th day  | [Practice Neural Network (Tensorflow, Keras)](./History/4th_day) |       |
 | 5th day  | [Practice Neural Network (Tensorflow, Keras)](./History/5th_day) |       |
 | 6th day  | [Study Face Reconstruction (Paper and source code)](./History/6th_day) |       |
